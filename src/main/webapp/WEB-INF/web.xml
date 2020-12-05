@@ -4,7 +4,18 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
 
-  <display-name>Archetype Created Web Application</display-name>
+  <display-name>Web Application</display-name>
+
+<!--  <servlet>-->
+<!--    <servlet-name>ru.vyazankin.ShopServlet</servlet-name>-->
+<!--    <servlet-class>ru.vyazankin.ShopServlet</servlet-class>-->
+<!--  </servlet>-->
+
+<!--  <servlet-mapping>-->
+<!--    <servlet-name>ru.vyazankin.ShopServlet</servlet-name>-->
+<!--    <url-pattern>/shop</url-pattern>-->
+<!--  </servlet-mapping>-->
+
 </web-app>
 
 
